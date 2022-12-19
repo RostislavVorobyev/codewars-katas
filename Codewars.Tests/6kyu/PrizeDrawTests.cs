@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars.Tests._6kyu
+namespace Codewars.Tests
 {
     [TestFixture]
     public class PrizeDrawTests
