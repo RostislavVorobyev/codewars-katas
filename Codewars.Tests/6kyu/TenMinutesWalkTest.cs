@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars
+namespace Codewars.Tests
 { 
     [TestFixture]
-    public class SolutionTest
+    public class TenMinutesWalkTests
     {
 
     private TenMinutesWalk underTest = new TenMinutesWalk();

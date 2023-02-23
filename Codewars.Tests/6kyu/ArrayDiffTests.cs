@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Codewars
+namespace Codewars.Tests
 {
     public class ArrayDiffTests
     {
